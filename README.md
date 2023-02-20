@@ -5,7 +5,7 @@
 
 - A Undergraduate Student in Fzu & A Open Source enthusiast.
 - 🌱 Currently studying in Fujian, China.
-- 💬 Ask me about Golang, Java, C++\C and My Projects on lear@qq.com](lear@qq.com)
+- 💬 Ask me about Golang, Java, C++\C and My Projects on [lear@qq.com](lear@qq.com)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SkyDDDog)](https://github.com/anuraghazra/github-readme-stats)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SkyDDDog&layout=compact&)](https://github.com/anuraghazra/github-readme-stats)<br/>
